@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # V8 App Template
 
 A modern, production-ready web application template built with Vite, React, and TypeScript. Designed for AI-assisted development with component introspection, layout systems, and excellent developer experience.
@@ -310,3 +311,7 @@ Built with amazing open-source tools:
 ---
 
 **Happy coding! 🎉**
+=======
+# Defence-Force-Security-Services-LLC
+A complete multi-page website for Defence Force Security Services LLC, including Home, Services, Sectors, Career, Blog, and Contact pages.
+>>>>>>> 57070a6fe9a257c6487f4b5c4891603c9f4f83f3
